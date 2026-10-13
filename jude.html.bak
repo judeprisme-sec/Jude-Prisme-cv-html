@@ -1,0 +1,127 @@
+<!doctype html>
+    <html lang="ht">
+	<head>
+	<meta charset="UTF-8>
+	<meta name="viewport" content="width=device-width, initial-scale=1,0">
+	<title> cv juderson prisme </title>
+	</head>
+	<h1> cv juderson prisme html</h1>
+	<boby>
+	    <header>
+		<h2> juderson prisme </h2>
+		<p> etidyan devlope web power academie </p>
+		<nav>
+		<a href="index html">ak<"akey"></a>
+		<a href="projet personel"><"projet personel"></a>
+		<a href="#kontak">kontak</a>
+		</header>
+		
+		<main>
+		
+		<section id="profil">
+		<h3>profil</h3>
+		<img src=" "foto juderson prisme" width="150">
+		<p> mwen se prisme juderson mwen se yon etidyan
+		html css ak java scipt mwen gen anpil pasyon 
+		pou teknoloji objektif</p>
+		<p> pasyon pou teknolojobjektif mwen se 
+		 travay antanke yon profesyonel nan
+		 domenn sayo mwen gen anpil pasyon
+		 pou domenn  teknologi mwen renmen moun</P>
+				mwen vle utiliser konesans mwen
+				genyen nan domenn sa poum
+				ede lot colabore ak lot moun patage</p>
+		<P> ide epi travay ansanm mwen travay
+		nan domenn nan paske mwen </p>
+		<p>mwen travay nan domenn nan paske mwen  </p>
+        <p>renmen l mwen gen anpil.	pasyon pou li et mwen</p>
+        <p> travay ak anpil lanmou pou domenn nanse sak </p>
+        <p>fe mwen jwenn posibilite poum travay nan domenn sa</p>		
+		</section>
+		
+		<section id="kontak">
+		<h3> kontak </h3>
+		</ul>
+		
+		<li>imel:<a href="judeprisme@gmail.com">judeprisme@gmail.com</a><li>
+		<li>tel:509 34117245 </li>
+		<li>adres petion vlle haiti</li>
+		</ul>
+		</section>
+		
+		
+		<section id>konpetans
+		<h3>konpetans<h3>
+		<h4>nou travay nan programasyon</h4>
+		<ul>
+		   <li>html5</li>
+		   <li>css</li>
+		   <li>kreye paj web</li>
+		   <li>travay en ekip</li>
+		   <li>rezoud problem</li>
+		   <li>java script</li>
+		   </ul>
+		   </section>
+		   
+		   
+		   <h3>edikasyon</h3>
+		  
+		   <h4>power academie devloper web</h4>
+		   <p>etudyan power academie</p>
+		   
+		  
+		   
+		   
+		   <br><br>
+		   <h3>eksperyans</h3>
+		   <article>
+		   <h3> page web publisiter </h3>
+		   <p>2025 2026 .projet personel</p>
+		   </article>
+		   </section>
+		   
+		   <section id>
+		   <h2>projet</h2>
+		   <h4>cv en html</h4>
+		   <p><a href="projet.html"Gade projet yo"</a></p>
+		   </section>
+		   
+		   <h3>lang</h3
+		   <ul>
+		   <li>kreyol</li>
+		   <li>francais</li>
+		   </ul>
+		   <section id>
+		   <h3>medya</h3>
+		   <video controls width="250">
+		   <source src="Facebook_1791386637673(360p).mp4" type="video/mp4">
+		   </video>
+		   <br>
+		   <br>
+		   <video controls width="250">
+		   <source src="292078a989d340faa8a5d61b8f381949_1791431942280 1.mp4" type="video/mp4">
+		   </video>
+		   <br><br><br>
+		   <img src="IMG-20260922-WA0012-1.jpg"alt="foto publisite" width="300">
+		   <br>
+		   <br>
+		   <img src="IMG-20260922-WA0022-1.jpg"alt="foto publisite" width="300">
+		   <br>
+		   <br>   <h4>projet persone page publisite</h4>
+		   <a href="projet.publisite.html">ale nan page publisite a </a>
+		   <footer>
+		   <p> &copy; 2026 juderson prisme etidyan power
+		   academie</p>
+		   
+		   
+		   </footer>
+		   
+		   
+		   
+		   
+		   
+		   
+		
+	
+		
+		  </html>
